@@ -55,10 +55,8 @@
 
 ## 📫 Connect with me
 
-[GeeksforGeeks](https://auth.geeksforgeeks.org/user/gouravparmar775566)
-[LeetCode](https://www.leetcode.com/gourav_222)
-[Codechef](https://www.codechef.com/users/gourav_222)
-[LinkedIn](https://linkedin.com/in/gourav-parmar-564b431b9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-parmar-564b431b9/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouravparmar775566@gmail.com)
 
 ## 📊 GitHub Stats
 
@@ -68,4 +66,6 @@
 ## Links
 
 [![Resume](https://img.shields.io/badge/Resume-PDF-<COLOR>?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1nvZDL8f391dOHJ7xlp0xMf2YseSIpjwU/view?usp=sharing)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-parmar-564b431b9/)
+[![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/gouravparmar775566)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/gourav_222)
+[![CodeChef Badge](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/gourav_222)
